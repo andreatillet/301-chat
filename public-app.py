@@ -19,7 +19,7 @@ instructions = 'Enter your API key in the left sidebar to get started. If you do
 
 tips = "[Click Here](https://github.com/andreatillet/301-chat) for additional tips and tricks for getting the most out of this chat app."
 chat_box_text = "What\'s up?"
-footer_text = "Made with ❤️ by Andrea, for her students 😊"
+footer_text = "Made with ❤️ by Andrea, for her 301 spring 2024 students 😊"
 
 error_message = "ERROR: Please enter your OpenAI API key AND click \'Start New Chat\' to get started."        
 
