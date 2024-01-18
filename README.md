@@ -27,7 +27,7 @@ I would love nothing more than to find a rich benefactor to pay for the API cost
     > {PASTE problem text here} <br>
     > Please explain your reasoning step-by-step.
 
-  Note that for the example above, I had to customize the problem from the class notes so that CostGPT had all the information it needed to solve the problem. In general, it will use fewer tokens (i.e., cost less) and provide better/more accurate responses if it doesn't have to guess on anything. That said, it could be a useful exercise for you to see how it reasons through problems with incomplete information.
+Note that for the example above, you might have to customize the problem from the class notes so that BadgerBotGPT has all the information it needs to solve the problem. In general, it will use fewer tokens (i.e., cost less) and provide better/more accurate responses if it doesn't have to guess on anything. That said, it could be a useful exercise for you to see how it reasons through problems with incomplete information.
 
 - I don't know whether to say this first or last, but in general you should be polite to the AI. There's research shows kids who learn to speak with a voice assistant in their home, like Alexa or Google Assistant, grow up to be less polite to humans, in part because they grew up barking orders at a bot, without practicing how to say please or thank you. You will go on to correspond in writing in your professional lives and you don't want the way you communicate with AI to change the way you communicate with other humans. Also, just in case AI does ever become sentient, it's probably not bad for it to remember that you were one of the nice humans. 😂
 
