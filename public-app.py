@@ -13,7 +13,7 @@ site_icon = ":nerd_face:"
 
 # Set the page title, description, and other text
 page_title = "BadgerBotGPT for Professor Tillet's 301 Students"
-description = "301 AI Tutor for Professor Tillet's Spring 2024 students: Always-On Assistance! Dive into intermediate financial accounting with your GPT4-powered helper. Ask questions about course content, study effectively, and conquer your exams. Go Badgers! 😎"
+description = "301 AI Teaching Assistant for Professor Tillet's Spring 2024 students: Always-On Assistance! Dive into intermediate financial accounting with your GPT4-powered helper. Ask questions about the course, study effectively, and conquer your exams. Go Badgers! 😎"
 
 instructions = 'Enter your API key in the left sidebar to get started. If you don\'t have an API key, go to openai.com to create a new one ([here is a quick tutorial](https://youtu.be/UO_i1GhjElQ?si=7VvfWK8AXQG6vdcn)). After you have entered your API key, click on the "Start a New Chat" button to start a new chat. Clicking it again will clear your chat and start a new chat thread.'
 
